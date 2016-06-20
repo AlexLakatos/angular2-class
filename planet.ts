@@ -1,5 +1,5 @@
 export class Planet {
-name:string;
-population:number;
-climate: string;
+  name:string;
+  population:number;
+  climate: string;
 }
